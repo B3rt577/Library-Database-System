@@ -20,10 +20,10 @@ The project will not include connecting to other library systems or making a mob
 
 **Team Members:**
 1. **James Hanselman(Team Adminstrator)**
-   - Email: 
-   - Availability: 
-   - Platform Experience: 
-   - Programming: 
+   - Email: jameshanselmaniv@ku.edu 
+   - Availability: MW 12AM-1PM 2PM-3PM, TT 1PM-2PM, 3PM-4PM, F 2PM-3PM
+   - Platform Experience: Linux, MacOS, Windows, Docker, AWS
+   - Programming: TypeScript, Rust, Python, C++, C#, Tsx/Html/CSS  
    - Role: Project coordination
 
 2. **Chloe Tran**
@@ -39,7 +39,7 @@ The project will not include connecting to other library systems or making a mob
    - Platform Experience: 
    - Programming: 
    - Role: 
-4. **Bert **
+4. **Bert**
    - Email: 
    - Availability: 
    - Platform Experience: 
