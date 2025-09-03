@@ -51,6 +51,13 @@ The project will not include connecting to other library systems or making a mob
    - Platform Experience: 
    - Programming: 
    - Role: 
+5. **Jay Chung**
+   - Email: 
+   - Availability: 
+   - Platform Experience: 
+   - Programming: 
+   - Role: 
+
 
 **Meeting Details:**
 - Weekly meetings: Wednesdays 12pm-1pm
