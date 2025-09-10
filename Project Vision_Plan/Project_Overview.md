@@ -46,10 +46,10 @@ The project will not include connecting to other library systems or making a mob
    - Programming: 
    - Role: 
 5. **Connor Williamson**
-   - Email: 
-   - Availability: 
-   - Platform Experience: 
-   - Programming: 
+   - Email: connor.williamson@ku.edu
+   - Availability: MWF 11AM-1PM, 2PM - 3PM, 5PM - 6PM
+   - Platform Experience: Windows, Linux, MacOS
+   - Programming: Python, C, C++, JS/HTML/CSS
    - Role: 
 5. **Jay Chung**
    - Email: 
