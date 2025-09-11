@@ -34,11 +34,11 @@ The project will not include connecting to other library systems or making a mob
    - Role: 
 
 3. **Lilly Kounkel**
-   - Email: 
-   - Availability: 
-   - Platform Experience: 
-   - Programming: 
-   - Role: 
+   - Email: l739k417@ku.edu
+   - Availability: MTWR 10AM-1PM,  F 3PM - 6PM 
+   - Platform Experience: Windows, Linux, MacOS
+   - Programming: C#, C, Python, Java, Ruby, SQL
+   - Role: Testing Manager
 4. **Bert**
    - Email: 
    - Availability: 
