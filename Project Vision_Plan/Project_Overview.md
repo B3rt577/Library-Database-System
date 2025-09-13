@@ -39,11 +39,11 @@ The project will not include connecting to other library systems or making a mob
    - Platform Experience: Windows, Linux, MacOS
    - Programming: C#, C, Python, Java, Ruby, SQL
    - Role: Testing Manager
-4. **Bert**
-   - Email: 
-   - Availability: 
-   - Platform Experience: 
-   - Programming: 
+4. **Edbert Jensen**
+   - Email: edbert.jensen@ku.edu
+   - Availability: MW 12:00 - 1 PM, TuTh 2-5 PM, F 
+   - Platform Experience: Windows, Linux
+   - Programming: C, Python, JS/HTML/CSS, 
    - Role: 
 5. **Connor Williamson**
    - Email: connor.williamson@ku.edu
