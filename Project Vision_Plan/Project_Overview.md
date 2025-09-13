@@ -56,7 +56,7 @@ The project will not include connecting to other library systems or making a mob
    - Availability: MWF 12:00 - 1PM, TuTh 3 - 5PM
    - Platform Experience: Windows, Linux
    - Programming: Python, Java, C
-   - Role: 
+   - Role: Database Implementation (SQL Developer)
 
 
 **Meeting Details:**
