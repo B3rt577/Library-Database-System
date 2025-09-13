@@ -8,24 +8,25 @@
 
 **Task Completion Confirmation:**
 
-* **Edbert:**   
-* **James:**   
-* **Lilly:**   
-* **Trâm:** 
+* **Edbert:** Began writing vision plan and scope
+* **James:** Assigned roles and created discord for group communication
+* **Lilly:** Created and filled out log  
+* **Trâm:** Began writing vision plan and scope
 
 **Brainstorming Session:**
 
-* Discussed …  
-* 
+* Discussed vision plan and scope statements
+* Discussed future meeting plans
+* Assigned roles to team members 
 
  **Tasks Allocated:**
 
-* **Edbert:**   
-* **James:**   
-* **Lilly:**   
-* **Trâm:** 
+* **Edbert:** Finalize vision plan and scope and fill out personal information
+* **James:** Finalize vision plan and scope and fill out personal information
+* **Lilly:** Finish log and fill out personal information
+* **Trâm:** Finalize vision plan and scope and fill out personal information
 
 **Follow-Up Actions:**
 
-Schedule the next meeting for September 14, 2025, at 3:00 PM to review and finalize the conceptual model and discuss next steps.
+Schedule the next meeting online and discuss next steps.
 
