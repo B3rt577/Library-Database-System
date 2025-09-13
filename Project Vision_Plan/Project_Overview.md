@@ -52,10 +52,10 @@ The project will not include connecting to other library systems or making a mob
    - Programming: Python, C, C++, JS/HTML/CSS
    - Role: 
 5. **Jay Chung**
-   - Email: 
-   - Availability: 
-   - Platform Experience: 
-   - Programming: 
+   - Email: j678c030@ku.edu
+   - Availability: MWF 12:00 - 1PM, TuTh 3 - 5PM
+   - Platform Experience: Windows, Linux
+   - Programming: Python, Java, C
    - Role: 
 
 
