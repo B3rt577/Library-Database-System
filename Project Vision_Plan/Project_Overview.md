@@ -44,7 +44,7 @@ The project will not include connecting to other library systems or making a mob
    - Availability: MW 12:00 - 1 PM, TuTh 2-5 PM, F 
    - Platform Experience: Windows, Linux
    - Programming: C, Python, JS/HTML/CSS, 
-   - Role: 
+   - Role: Database Engineer
 5. **Connor Williamson**
    - Email: connor.williamson@ku.edu
    - Availability: MWF 11AM-1PM, 2PM - 3PM, 5PM - 6PM
