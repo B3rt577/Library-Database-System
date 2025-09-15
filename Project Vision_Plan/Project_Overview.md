@@ -31,7 +31,7 @@ The project will not include connecting to other library systems or making a mob
    - Availability: M 11AM-1PM, WF 2PM-3PM, 4PM-6PM
    - Platform Experience: Windows, Linux
    - Programming: C#, C++, Python, Java
-   - Role: 
+   - Role: QA
 
 3. **Lilly Kounkel**
    - Email: l739k417@ku.edu
@@ -50,7 +50,7 @@ The project will not include connecting to other library systems or making a mob
    - Availability: MWF 11AM-1PM, 2PM - 3PM, 5PM - 6PM
    - Platform Experience: Windows, Linux, MacOS
    - Programming: Python, C, C++, JS/HTML/CSS
-   - Role: 
+   - Role: Database Implementation
 5. **Jay Chung**
    - Email: j678c030@ku.edu
    - Availability: MWF 12:00 - 1PM, TuTh 3 - 5PM
