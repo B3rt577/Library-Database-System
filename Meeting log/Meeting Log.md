@@ -4,14 +4,14 @@
 **Time:** 12:00 PM \- 1:00 PM  
 **Location:** Leep2 Commons  
 **Objective:** Planning session for team structure and future meetings  
-**Team Members Present:** Edbert, James, Lilly, Trâm
+**Team Members Present:** Edbert, James, Lilly, Chloe
 
 **Task Completion Confirmation:**
 
 * **Edbert:** Began writing vision plan and scope
 * **James:** Assigned roles and created discord for group communication
 * **Lilly:** Created and filled out log  
-* **Trâm:** Began writing vision plan and scope
+* **Chloe:** Began writing vision plan and scope
 
 **Brainstorming Session:**
 
@@ -24,7 +24,7 @@
 * **Edbert:** Finalize vision plan and scope and fill out personal information
 * **James:** Finalize vision plan and scope and fill out personal information
 * **Lilly:** Finish log and fill out personal information
-* **Trâm:** Finalize vision plan and scope and fill out personal information
+* **Chloe** Finalize vision plan and scope and fill out personal information
 
 **Follow-Up Actions:**
 
