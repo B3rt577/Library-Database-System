@@ -1,0 +1,9 @@
+services:
+  sqlite:
+    image: nouchka/sqlite3
+    container_name: sqlite-dev
+    platform: linux/amd64
+    volumes:
+      - ./db:/db
+      - ./schema.sql:/schema.sql
+    tty: true
