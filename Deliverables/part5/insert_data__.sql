@@ -22,17 +22,6 @@ INSERT INTO MEMBER (MemberID, Fname, Lname, Address, DOB, OutstandingFees) VALUE
 (9, 'Iris', 'Lewis', '900 Knowledge Park, Lawrence, KS', '1996-09-05', 0.00),
 (10, 'Jack', 'Walker', '1000 Wisdom Court, Lawrence, KS', '2001-07-20', 15.00);
 
-(11, 'Taylor', 'Swift', '1100 Liberty St, Lawrence, KS', '1989-12-13', 0.00),
-(12, 'Chris', 'Evans', '1200 Liberty St, Lawrence, KS', '1981-06-13', 2.50),
-(13, 'Zendaya', 'Coleman', '1300 Liberty St, Lawrence, KS', '1996-09-01', 0.00),
-(14, 'Keanu', 'Reeves', '1400 Liberty St, Lawrence, KS', '1964-09-02', 0.00),
-(15, 'Scarlett', 'Johansson', '1500 Liberty St, Lawrence, KS', '1984-11-22', 1.00),
-(16, 'Benedict', 'Cumberbatch', '1600 Liberty St, Lawrence, KS', '1976-07-19', 0.00),
-(17, 'Emma', 'Watson', '1700 Liberty St, Lawrence, KS', '1990-04-15', 0.00),
-(18, 'Leonardo', 'DiCaprio', '1800 Liberty St, Lawrence, KS', '1974-11-11', 3.75),
-(19, 'Jennie', 'Kim', '1900 Liberty St, Lawrence, KS', '1996-01-16', 0.00),
-(20, 'RM', 'Kim', '2000 Liberty St, Lawrence, KS', '1994-09-12', 0.00);
-
 INSERT INTO MEDIA (MediaID, PublishDate, Title, Status, Genre) VALUES
 (1, '2020-01-15', 'The Art of Programming', 'available', 'Technology'),
 (2, '2019-05-22', 'Data Structures and Algorithms', 'checked_out', 'Technology'),
@@ -67,18 +56,6 @@ INSERT INTO MEDIA (MediaID, PublishDate, Title, Status, Genre) VALUES
 (29, '2021-06-18', 'Parasite', 'available', 'Thriller'),
 (30, '2023-08-22', 'Everything Everywhere All at Once', 'available', 'Adventure');
 
-(31, '1997-06-26', 'Harry Potter and the Philosopher''s Stone', 'available', 'Fantasy'),
-(32, '1954-07-29', 'The Fellowship of the Ring', 'checked_out', 'Fantasy'),
-(33, '1937-09-21', 'The Hobbit', 'available', 'Fantasy'),
-(34, '1960-07-11', 'To Kill a Mockingbird', 'available', 'Fiction'),
-(35, '2003-08-01', 'The Da Vinci Code', 'reserved', 'Mystery'),
-(36, '2012-08-20', 'The Fault in Our Stars', 'available', 'Romance'),
-(37, '2014-11-07', 'Interstellar (Film Script)', 'available', 'Sci-Fi'),
-(38, '2019-05-30', 'Parasite (Screenplay)', 'checked_out', 'Thriller'),
-(39, '2020-10-03', 'Dune (Movie Companion)', 'available', 'Sci-Fi'),
-(40, '2013-11-22', 'Frozen (Art Book)', 'available', 'Art');
-
-
 INSERT INTO BOOK (BookID, Authors, ISBN) VALUES
 (1, 'Donald Knuth', '978-0201896831'),
 (2, 'Thomas H. Cormen, Charles E. Leiserson', '978-0262033848'),
@@ -90,17 +67,6 @@ INSERT INTO BOOK (BookID, Authors, ISBN) VALUES
 (8, 'Yuval Noah Harari', '978-0062316097'),
 (9, 'Tara Westover', '978-0399590504'),
 (10, 'James Clear', '978-0735211292');
-
-(11, 'J.K. Rowling', '978-0747532699'),
-(12, 'J.R.R. Tolkien', '978-0547928210'),
-(13, 'J.R.R. Tolkien', '978-0547928227'),
-(14, 'Harper Lee', '978-0446310789'),
-(15, 'Dan Brown', '978-0307474278'),
-(16, 'John Green', '978-0525478812'),
-(17, 'Jonathan Nolan, Christopher Nolan', '978-0571539071'),
-(18, 'Bong Joon-ho', '978-1250757929'),
-(19, 'Frank Herbert', '978-0593201886'),
-(20, 'Han Kang', '978-1452127181');
 
 INSERT INTO MAGAZINE (MagazineID, Authors, ISSN, VolumeNumber, IssueNumber) VALUES
 (11, 'National Geographic Society', '0027-9358', 235, 1),
@@ -114,12 +80,6 @@ INSERT INTO MAGAZINE (MagazineID, Authors, ISSN, VolumeNumber, IssueNumber) VALU
 (19, 'Kalmbach Media', '0274-7529', 45, 9),
 (20, 'Bonnier Corporation', '0161-7370', 86, 10);
 
-(31, 'National Geographic Editorial Team', '0027-9358', 240, 12),
-(32, 'TIME Editorial Board', '0040-781X', 210, 6),
-(33, 'Forbes Media', '0014-8962', 205, 9),
-(34, 'Vogue Editorial Team', '0042-8000', 135, 3),
-(35, 'Scientific American', '0036-8733', 331, 4);
-
 INSERT INTO DVD (DVDID, Creators, ISBN, Rating) VALUES
 (21, 'Frank Darabont', '097360580487', 'R'),
 (22, 'Christopher Nolan', '883929082957', 'PG-13'),
@@ -131,12 +91,6 @@ INSERT INTO DVD (DVDID, Creators, ISBN, Rating) VALUES
 (28, 'Francis Ford Coppola', '097363323242', 'R'),
 (29, 'Bong Joon-ho', '032429345547', 'R'),
 (30, 'Daniel Kwan, Daniel Scheinert', '031398348924', 'R');
-
-(36, 'James Cameron', '024543123456', 'PG-13'),
-(37, 'Steven Spielberg', '012345678912', 'PG-13'),
-(38, 'Peter Jackson', '031398765432', 'PG-13'),
-(39, 'Denis Villeneuve', '022543678901', 'PG-13'),
-(40, 'Christopher Nolan', '020123456789', 'PG-13');
 
 INSERT INTO MANAGES (LibrarianID, MemberID) VALUES
 (1, 1),

@@ -20,7 +20,17 @@ INSERT INTO MEMBER (MemberID, Fname, Lname, Address, DOB, OutstandingFees) VALUE
 (7, 'Grace', 'Martin', '700 Education Way, Lawrence, KS', '2000-12-08', 0.00),
 (8, 'Henry', 'Clark', '800 Learning Circle, Lawrence, KS', '2003-02-14', 8.25),
 (9, 'Iris', 'Lewis', '900 Knowledge Park, Lawrence, KS', '1996-09-05', 0.00),
-(10, 'Jack', 'Walker', '1000 Wisdom Court, Lawrence, KS', '2001-07-20', 15.00);
+(10, 'Jack', 'Walker', '1000 Wisdom Court, Lawrence, KS', '2001-07-20', 15.00),
+(11, 'Taylor', 'Swift', '1100 Liberty St, Lawrence, KS', '1989-12-13', 0.00),
+(12, 'Chris', 'Evans', '1200 Liberty St, Lawrence, KS', '1981-06-13', 2.50),
+(13, 'Zendaya', 'Coleman', '1300 Liberty St, Lawrence, KS', '1996-09-01', 0.00),
+(14, 'Keanu', 'Reeves', '1400 Liberty St, Lawrence, KS', '1964-09-02', 0.00),
+(15, 'Scarlett', 'Johansson', '1500 Liberty St, Lawrence, KS', '1984-11-22', 1.00),
+(16, 'Benedict', 'Cumberbatch', '1600 Liberty St, Lawrence, KS', '1976-07-19', 0.00),
+(17, 'Emma', 'Watson', '1700 Liberty St, Lawrence, KS', '1990-04-15', 0.00),
+(18, 'Leonardo', 'DiCaprio', '1800 Liberty St, Lawrence, KS', '1974-11-11', 3.75),
+(19, 'Jennie', 'Kim', '1900 Liberty St, Lawrence, KS', '1996-01-16', 0.00),
+(20, 'RM', 'Kim', '2000 Liberty St, Lawrence, KS', '1994-09-12', 0.00);
 
 INSERT INTO MEDIA (MediaID, PublishDate, Title, Status, Genre) VALUES
 (1, '2020-01-15', 'The Art of Programming', 'available', 'Technology'),
@@ -54,7 +64,19 @@ INSERT INTO MEDIA (MediaID, PublishDate, Title, Status, Genre) VALUES
 (27, '2019-12-30', 'Forrest Gump', 'available', 'Drama'),
 (28, '2020-02-14', 'The Godfather', 'checked_out', 'Crime'),
 (29, '2021-06-18', 'Parasite', 'available', 'Thriller'),
-(30, '2023-08-22', 'Everything Everywhere All at Once', 'available', 'Adventure');
+(30, '2023-08-22', 'Everything Everywhere All at Once', 'available', 'Adventure'),
+
+(31, '1997-06-26', 'Harry Potter and the Philosopher''s Stone', 'available', 'Fantasy'),
+(32, '1954-07-29', 'The Fellowship of the Ring', 'checked_out', 'Fantasy'),
+(33, '1937-09-21', 'The Hobbit', 'available', 'Fantasy'),
+(34, '1960-07-11', 'To Kill a Mockingbird', 'available', 'Fiction'),
+(35, '2003-08-01', 'The Da Vinci Code', 'reserved', 'Mystery'),
+(36, '2012-08-20', 'The Fault in Our Stars', 'available', 'Romance'),
+(37, '2014-11-07', 'Interstellar (Film Script)', 'available', 'Sci-Fi'),
+(38, '2019-05-30', 'Parasite (Screenplay)', 'checked_out', 'Thriller'),
+(39, '2020-10-03', 'Dune (Movie Companion)', 'available', 'Sci-Fi'),
+(40, '2013-11-22', 'Frozen (Art Book)', 'available', 'Art');
+
 
 INSERT INTO BOOK (BookID, Authors, ISBN) VALUES
 (1, 'Donald Knuth', '978-0201896831'),
@@ -66,7 +88,18 @@ INSERT INTO BOOK (BookID, Authors, ISBN) VALUES
 (7, 'Stephen Hawking', '978-0553380163'),
 (8, 'Yuval Noah Harari', '978-0062316097'),
 (9, 'Tara Westover', '978-0399590504'),
-(10, 'James Clear', '978-0735211292');
+(10, 'James Clear', '978-0735211292'),
+
+(31, 'J.K. Rowling', '978-0747532699'),
+(32, 'J.R.R. Tolkien', '978-0547928210'),
+(33, 'J.R.R. Tolkien', '978-0547928227'),
+(34, 'Harper Lee', '978-0446310789'),
+(35, 'Dan Brown', '978-0307474278'),
+(36, 'John Green', '978-0525478812'),
+(37, 'Jonathan Nolan, Christopher Nolan', '978-0571539071'),
+(38, 'Bong Joon-ho', '978-1250757929'),
+(39, 'Frank Herbert', '978-0593201886'),
+(40, 'Han Kang', '978-1452127181');
 
 INSERT INTO MAGAZINE (MagazineID, Authors, ISSN, VolumeNumber, IssueNumber) VALUES
 (11, 'National Geographic Society', '0027-9358', 235, 1),

@@ -6,4 +6,7 @@ services:
     volumes:
       - ./db:/db
       - ./schema.sql:/schema.sql
+      - ./insert_data.sql:/insert_data.sql
+      - ./init.sh:/init.sh
     tty: true
+    entrypoint: ["/init.sh", "tail", "-f", "/dev/null"]
